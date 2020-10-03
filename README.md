@@ -2,7 +2,7 @@
 
 ### I'm Gökhan 😄
 
-### I’m currently learning Full-Stack Development Languages. 🌱 
+### I’m currently learning Full-Stack Development Languages... 🌱 
 
 ### I've already known HTML, CSS, JS, Python. 💬
 
