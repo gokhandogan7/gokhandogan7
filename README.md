@@ -6,7 +6,7 @@
 
 ### I've already known HTML, CSS, JS, Python. 💬
 
-### How to reach me:gdogan3746@gmail.com 📫 
+### How to reach me: gdogan3746@gmail.com 📫 
 
 <!--
 **gokhandogan7/gokhandogan7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
