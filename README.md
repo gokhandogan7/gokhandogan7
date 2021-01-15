@@ -4,7 +4,7 @@
 
 ### I’m currently learning Full-Stack Development Languages... 🌱 
 
-### I've already known HTML, CSS, JS, Python. 💬
+### I've already known HTML, CSS, JS, React JS, Node JS. 💬
 
 ### How to reach me: gdogan3746@gmail.com 📫 
 
