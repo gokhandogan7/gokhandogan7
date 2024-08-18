@@ -2,7 +2,9 @@
 
 ### I'm Gökhan 😄
 
-### I’m currently learning Full-Stack Development Languages... 🌱 
+### I’m Full-Stack Developer. 🌱 
+
+### My focal point is React Js - React Native frontend developement but I am interested in learning everything about Go.
 
 ### I've already known HTML, CSS, JS, React Native, React JS, Golang, MySQL, Docker. 💬
 
